@@ -14,38 +14,79 @@ The target audience will primarily be students, teenagers, and parents who are i
 
 ### Must-Have User Stories
 
-*Member of General Public:*
-- **Background**: A 30-year old individual seeking basic mental health information for personal understanding.
-- **Feature Needed**: Easy-to-navigate sections with clear definitions of mental health terms.
-- **Success Criteria**:
-    - Clear headings and subheadings.
-    - Navigation menu with Categories.
+**Member of General Public**:
 
-*Young Adult:*
-- **Background**: A university student experiencing stress during their exam season.
-- **Feature Needed**: Coping strategies section with practical tips for managing stress
-- **Success Criteria**:
-    - At least five visually appealing coping strategies with concise descriptions.
-    - Visual aids (icons/images) complement the text.
-    - tips could include links to resources for deeper understanding.
+- *Background:* A 30-year old individual seeking basic mental health information for personal understanding.
+- *Feature Needed:* Easy-to-navigate sections with clear definitions of mental health terms.
+- *Success Criteria:*
+  - Clear headings and subheadings.
+  - Navigation menu with Categories.
 
-*Parent:*
-- **Background**: A parent is looking to understand mental health to support their children (teenagers).
-- **Feature Needed**: Signs and symptoms section focused on youth mental health issues.
-- **Success Criteria**:
-    - Section includes a clear list of signs specific to teenagers.
-    - Visual aids (icons/images) accompany each symptom for clarity.
+**Young Adult**:
 
-*Support Seeker:*
-- **Background**: An individual who suspects they may have anxiety and wants to know when to seek help.
-- **Feature Needed**: A simple guide on when to seek profesional help.
-- **Acceptance Criteria**:
-    - Checklist or flowchart is prominently displayed for easy reference.
-    - Contact information for mental health services is easily accessible.
+- *Background:* A university student experiencing stress during their exam season.
+- *Feature Needed:* Coping strategies section with practical tips for managing stress
+- *Success Criteria:*
+  - At least five visually appealing coping strategies with concise descriptions.
+  - Visual aids (icons/images) complement the text.
+  - tips could include links to resources for deeper understanding.
+
+**Parent**:
+
+- *Background:* A parent is looking to understand mental health to support their children (teenagers).
+- *Feature Needed:* Signs and symptoms section focused on youth mental health issues.
+- *Success Criteria:*
+  - Section includes a clear list of signs specific to teenagers.
+  - Visual aids (icons/images) accompany each symptom for clarity.
 
 ### Should-Have User Stories
 
+**Support Seeker**:
+
+- *Background:* An individual who suspects they may have anxiety and wants to know when to seek help.
+- *Feature Needed:* A simple guide on when to seek profesional help.
+- *Acceptance Criteria:*
+  - Checklist or flowchart is prominently displayed for easy reference.
+  - Contact information for mental health services is easily accessible.
+
+**Educator**:
+
+- *Background:* A teacher interested in promoting mental health awareness in the classroom.
+- *Feature Needed:* Resources section with links to educational materials and workshops.
+- *Acceptance Criteria:*
+  - Curated list of resources includes downloadable materials.
+  - Links to relevant organisations and upcoming events are updated regularly.
+
+**Educational Body**:
+
+- *Background:* A school whats to put together workshops to raise awareness for their students.
+- *Feature Needed:* Links to support for individuals.
+- *Acceptance Criteria:*
+  - Section outlines practical steps for implementing initiatives.
+
 ### Could-Have User Stories
+
+**Advocate**:
+
+- *Background:* An advocate looking to raise awareness and reduce stigma.
+- *Feature Needed:* Call-to-action section for community involvement.
+- *Acceptance Criteria:*
+  - Clear steps for community involvement are present.
+  - Social media sharing options are integrated for campaigns.
+
+**The Easily Distracted User**:
+
+- *Background:* A user who is easily distracted seeking interactive/responsive content.
+- *Feature Needed:* Interactive/responsive elements to keep attention while providing information.
+- *Acceptance Criteria:*
+  - User responsive elements be incorporated into site.
+
+**The Visual Learner**:
+
+- *Background:* A visual learner who prefers graphic content.
+- *Feature Needed:* Infographics summarizing key mental health concepts.
+- *Acceptance Criteria:*
+  - Infographics are visually appealing and easy to understand.
 
 ## Design Decisions
 
