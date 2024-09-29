@@ -67,5 +67,10 @@ Users should find this an easy to navigate tool for learning the basic infomatio
 ## References for Resources
 
 ### CSS Pre-Compiler
+SCSS (or SASS) was used to precompile the CSS. The pre-compiler allows CSS code to function more like a normal language; one can make use of variables, mathmatical functions, if statements, etc.
+
+- [SASS website](https://sass-lang.com/)
+
+- [link to repository used to determine setting code for vscode live sass compiler](https://github.com/glenn2223/vscode-live-sass-compiler/tree/87b33f56d180a430779f97c523a559491335781f)
 
 ### Methodologies
