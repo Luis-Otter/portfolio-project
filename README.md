@@ -12,6 +12,35 @@ Users should find this an easy to navigate tool for learning the basic infomatio
 
 ### Must-Have User Stories
 
+*Member of General Public*
+    - **Background**: A 30-year old individual seeking basic mental health information for personal understanding.
+    - **Feature Needed**: Easy-to-navigate sections with clear definitions of mental health terms.
+    - **Success Criteria**:
+        - Clear headings and subheadings.
+        - Navigation menu with Categories.
+
+*Young Adult*
+    - **Background**: A university student experiencing stress during their exam season.
+    - **Feature Needed**: Coping strategies section with practical tips for managing stress
+    - **Success Criteria**:
+        - At least five visually appealing coping strategies with concise descriptions.
+        - Visual aids (icons/images) complement the text.
+        - tips could include links to resources for deeper understanding.
+
+*Parent*
+    - **Background**: A parent is looking to understand mental health to support their children (teenagers).
+    - **Feature Needed**: Signs and symptoms section focused on youth mental health issues.
+    - **Success Criteria**:
+        - Section includes a clear list of signs specific to teenagers.
+        - Visual aids (icons/images) accompany each symptom for clarity.
+
+*Support Seeker*
+    - **Background**: An individual who suspects they may have anxiety and wants to know when to seek help.
+    - **Feature Needed**: A simple guide on when to seek profesional help.
+    - **Acceptance Criteria**:
+        - Checklist or flowchart is prominently displayed for easy reference.
+        - Contact information for mental health services is easily accessible.
+
 ### Should-Have User Stories
 
 ### Could-Have User Stories
