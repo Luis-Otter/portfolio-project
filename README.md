@@ -10,6 +10,8 @@ Users should find this an easy to navigate tool for learning the basic infomatio
 ### Target Audience
 The target audience will primarily be students, teenagers, and parents who are in need of information, guidance, and/or strategies for spotting and/or coping with mental health issues.
 
+These users will gain the most value as they will be able to access the most relevant information quickly, and easily find information to help guide them as to what they could try next.
+
 ## User Stories
 
 ### Must-Have User Stories
