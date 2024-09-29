@@ -71,6 +71,9 @@ SCSS (or SASS) was used to precompile the CSS. The pre-compiler allows CSS code 
 
 - [SASS website](https://sass-lang.com/)
 
-- [link to repository used to determine setting code for vscode live sass compiler](https://github.com/glenn2223/vscode-live-sass-compiler/tree/87b33f56d180a430779f97c523a559491335781f)
+- [link to repository used to determine required settings vscode live sass compiler](https://github.com/glenn2223/vscode-live-sass-compiler/tree/87b33f56d180a430779f97c523a559491335781f)
 
 ### Methodologies
+Object Oriented Cascading Style Sheets (OOCSS)
+
+- [Link to Video on subject](https://www.youtube.com/watch?v=hTZGfVRlqTI)
