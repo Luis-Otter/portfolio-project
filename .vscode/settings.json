@@ -15,10 +15,8 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
-}
 
-//Code for setting up live Sass compiler
-{
+    //Code for setting up live Sass compiler
     "liveSassCompile.settings.formats": [
         {
             "format": "expanded",
