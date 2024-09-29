@@ -4,9 +4,11 @@
 
 ### Purpose
 The purpose of this project is to provide basic information pertinent to mental health. It aims to raise awareness of both common mental health issues, the signs to look for, and some guidance on how to cope with and manage things like stress.
+
 Users should find this an easy to navigate tool for learning the basic infomation quickly, and being a good source of coping strategies/techniques.
 
 ### Target Audience
+The target audience will primarily be students, teenagers, and parents who are in need of information, guidance, and/or strategies for spotting and/or coping with mental health issues.
 
 ## User Stories
 
