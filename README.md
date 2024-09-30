@@ -104,6 +104,8 @@ To start this section I will breakdown (from the must-have user stories) the mos
 
 Based on the breakdown above, a linear "narrative" structure would be best; lead each individual through the page from start to finish in a logical sequence. The begining will introduce the subject, then I can have a section about what to look for, followed by the coping strategies, and then I could have a section on where to get help. This would cater to most of the must-have user story elements and produce a MVP that can be improved further if there is time.
 
+The site is structured in this way as it allows to most important information to appear at the top. That is to say, the logical way of providing this information is to give the coping strategies after the symptoms (as someone might see the symptoms, decide they haven't seen any, and then leave the page; such a person will not be interested in the strategies or resources). Thus the most important information is placed closest to the top.
+
 My initial designs for the mobile (small devices) look like this...
 
 ![wireframe for small devices](README+/images/small-device-example.png) 
@@ -112,15 +114,30 @@ The full page was visualised as this...
 
  ![wireframe for small devices full page pt2](README+/images/small-device-page-pt2.png) ![wireframe for small devices full page pt3](README+/images/small-device-page-pt3.png)
 
-The site is structured in this way as it allows to most important information to appear at the top. That is to say the logical way of providing this information is to give the coping strategies after the symptoms (as someone might see the symptoms, decide they haven't seen any, and then leave the page; such a person will not be interested in the strategies or resources). 
-
 The list of symptoms to watch for may also be redesigned depending on the content, and the general aesthetic of the site. It is currently planned as...
 
 ![wireframe for small device symptoms list](README+/images/list-of-symptoms-1.png) Alternative: ![wireframe for small device symptoms list alternative](README+/images/list-of-symptoms-2.png)
 
 
-
 ### Accessibility Considerations
+There are a fair few considerations that have been made in terms of the accessibilty of the site. All images/icons will be given alt text so that screen readers can describe them. Additionaly, the contrast of the colours used will ensure that text can always be read easily and the font will also be selected based on its legibility.
+
+I want the fonts to be modern, clean, and readable. For this reason I have decided upon two fonts:
+
+Lato: [Link to Google fonts Lato page](https://fonts.google.com/specimen/Lato?query=lato)
+![screenshot of Lato font example from google fonts](README+/images/Lato-font-screenshot.png)
+
+The Lato font will be the primary font used on the website; it is a modern design, easily readable, and used a lot. 
+  - Headers: will be done in bold or semi-bold to make them stand out.
+  - Body: will be regular, or even light depending on legibility.
+
+Nunito: [Link to Google fonts Nunito page](https://fonts.google.com/specimen/Nunito?query=nunito)
+![screenshot of Nunito font example from Google fonts](README+/images/Nunito-font-screenshot.png)
+
+The roundedness of Nunito makes it a slightly friendlier font to use on things that I want to differentiate and stand out some more.
+  - It may be used in sub-headers or buttons.
+
+
 
 ## AI Tools Usage
 
