@@ -92,7 +92,17 @@ These users will gain the most value as they will be able to access the most rel
 
 ## Design Decisions
 
+To start this section I will breakdown (from the must-have user stories) the most important elements for the webpage. This will then be used as the basis for the design of the site, and can be built upon once the MVP (minimum viable product is finished).
+
+- Clear headings and subheadings
+- Category oriented Navigation menu
+- Five coping strategies
+  - with icons
+- list of mental health awareness signs to watch for (focus on teens/students)
+
 ### Wireframes
+
+Based on the breakdown above, a linear "narrative" structure would be best; lead each individual through the page from start to finish. The begining will introduce the subject, then I can have a section about what to look for, followed by the coping strategies, and then I could have a section on where to get help. This would cater to most of the must-have user stories.
 
 ### Accessibility Considerations
 
