@@ -102,7 +102,23 @@ To start this section I will breakdown (from the must-have user stories) the mos
 
 ### Wireframes
 
-Based on the breakdown above, a linear "narrative" structure would be best; lead each individual through the page from start to finish. The begining will introduce the subject, then I can have a section about what to look for, followed by the coping strategies, and then I could have a section on where to get help. This would cater to most of the must-have user stories.
+Based on the breakdown above, a linear "narrative" structure would be best; lead each individual through the page from start to finish in a logical sequence. The begining will introduce the subject, then I can have a section about what to look for, followed by the coping strategies, and then I could have a section on where to get help. This would cater to most of the must-have user story elements and produce a MVP that can be improved further if there is time.
+
+My initial designs for the mobile (small devices) look like this...
+
+![wireframe for small devices](README+/images/small-device-example.png) 
+
+The full page was visualised as this...
+
+ ![wireframe for small devices full page pt2](README+/images/small-device-page-pt2.png) ![wireframe for small devices full page pt3](README+/images/small-device-page-pt3.png)
+
+The site is structured in this way as it allows to most important information to appear at the top. That is to say the logical way of providing this information is to give the coping strategies after the symptoms (as someone might see the symptoms, decide they haven't seen any, and then leave the page; such a person will not be interested in the strategies or resources). 
+
+The list of symptoms to watch for may also be redesigned depending on the content, and the general aesthetic of the site. It is currently planned as...
+
+![wireframe for small device symptoms list](README+/images/list-of-symptoms-1.png) Alternative: ![wireframe for small device symptoms list alternative](README+/images/list-of-symptoms-2.png)
+
+
 
 ### Accessibility Considerations
 
