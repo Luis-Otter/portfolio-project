@@ -128,12 +128,14 @@ Left side is initial plan, right is alternative:
 ### Accessibility Considerations
 There are a fair few considerations that have been made in terms of the accessibilty of the site. All images/icons will be given alt text so that screen readers can describe them. Additionaly, the contrast of the colours used will ensure that text can always be read easily and the font will also be selected based on its legibility.
 
+#### fonts
+
 I want the fonts to be modern, clean, and readable. For this reason I have decided upon two fonts:
 
 Lato: [Link to Google fonts Lato page](https://fonts.google.com/specimen/Lato?query=lato)
 ![screenshot of Lato font example from google fonts](README+/images/Lato-font-screenshot.png)
 
-The Lato font will be the primary font used on the website; it is a modern design, easily readable, and used a lot. 
+The Lato font will be the primary font used on the website; it has a modern design, is easily readable, and is used a lot on the web. 
   - Headers: will be done in bold or semi-bold to make them stand out.
   - Body: will be regular, or even light depending on legibility.
 
@@ -141,7 +143,13 @@ Nunito: [Link to Google fonts Nunito page](https://fonts.google.com/specimen/Nun
 ![screenshot of Nunito font example from Google fonts](README+/images/Nunito-font-screenshot.png)
 
 The roundedness of Nunito makes it a slightly friendlier font to use on things that I want to differentiate and stand out some more.
-  - It may be used in sub-headers or buttons.
+  - It may be used in sub-headers or buttons as it's a bit more welcoming.
+
+Font Sizes:
+  - H1: 32-40px
+  - H2: 28-32px
+  - H3: 22-26px
+  - Body Text: 16-18px
 
 
 
