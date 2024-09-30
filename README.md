@@ -108,15 +108,21 @@ The site is structured in this way as it allows to most important information to
 
 My initial designs for the mobile (small devices) look like this...
 
-![wireframe for small devices](README+/images/small-device-example.png) 
+<img src="README+/images/small-device-example.png" width=350>
 
 The full page was visualised as this...
 
- ![wireframe for small devices full page pt2](README+/images/small-device-page-pt2.png) ![wireframe for small devices full page pt3](README+/images/small-device-page-pt3.png)
+
+<img src="README+/images/small-device-page-pt2.png" width=350>
+<img src="README+/images/small-device-page-pt3.png" width=350>
 
 The list of symptoms to watch for may also be redesigned depending on the content, and the general aesthetic of the site. It is currently planned as...
 
-![wireframe for small device symptoms list](README+/images/list-of-symptoms-1.png) Alternative: ![wireframe for small device symptoms list alternative](README+/images/list-of-symptoms-2.png)
+Left side is initial plan, right is alternative:
+
+<img src="README+/images/list-of-symptoms-1.png" width=350><img src="README+/images/list-of-symptoms-2.png" width=350>
+
+
 
 
 ### Accessibility Considerations
