@@ -151,6 +151,17 @@ Font Sizes:
   - H3: 22-26px
   - Body Text: 16-18px
 
+### colour/theme
+
+The selected colours have been chosen with the subject matter of the website in mind; so chosen to evoke calmer responses, etc.
+
+I will also endeavour to ensure that font-colours and their relevant background meet the accessibility standards for contrast.
+
+This link will be used to check the colours meet the contrast ratios needed: [Colour Contrast Checker](https://webaim.org/resources/contrastchecker/)
+
+The current colour pallete for the website was created with [Color Mind](http://colormind.io/bootstrap/)
+
+![Colour pallet](README+/images/color-pallete.png)
 
 
 ## AI Tools Usage
