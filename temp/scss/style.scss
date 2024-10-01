@@ -37,8 +37,22 @@ body{
     width: 100%;
 }
 
+.image-container {
+    height: 250px;
+}
+
 
 /* Styles / skins */
+.hero {
+    background-image: url(../../assets/images/mobile-hero-image.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-transparent {
+    background-color: transparent;
+}
+
 .structural {
     background-color: $primary;
     a {
