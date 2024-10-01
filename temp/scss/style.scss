@@ -52,6 +52,8 @@ body{
 }
 
 
+
+
 .footer {
     position: relative;
     bottom: 0;
@@ -91,5 +93,10 @@ body{
     color: $secondaryLight;
 }
 
+
+/* Pseudo styles/skins */
+.active, .accordion:hover {
+    background: yellow;
+}
 
 /* Media Queries */
