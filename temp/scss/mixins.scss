@@ -12,3 +12,26 @@
         font-size: 1.375rem;
     }
 }
+
+// -------- Media Query Mixins -------- //
+// symptoms grid
+@mixin grid-md{
+    .grid {
+        grid-template-columns: repeat(4, minmax(80px, 1fr));
+    }
+    .card {
+        grid-column: span 2;
+    }
+    .card:last-child {
+        grid-column: 2/4;
+    }
+}
+
+@mixin grid-lg {
+    .grid {
+        grid-template-columns: repeat(6, minmax(80px, 1fr));
+    }
+    .card {
+        grid-column: span 2;
+    }
+}

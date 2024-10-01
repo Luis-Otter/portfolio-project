@@ -100,3 +100,13 @@ body{
 }
 
 /* Media Queries */
+// ------- Medium devices ------- //
+@media screen and (min-width: 426px) {
+    @include grid-md;
+}
+
+
+// ------- Large devices ------- //
+@media screen and (min-width: 769px) {
+    @include grid-lg;
+}
