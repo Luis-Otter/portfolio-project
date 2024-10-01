@@ -57,7 +57,7 @@ body h3 {
   height: 3rem;
   align-items: center;
   width: 70%;
-  margin-right: 0;
+  margin-right: 0.5rem;
   margin-left: auto;
 }
 
@@ -81,11 +81,12 @@ body h3 {
   position: relative;
   bottom: 0;
   width: 100%;
-  justify-content: space-evenly;
 }
 .footer div {
-  width: 50%;
-  padding: 0.5rem;
+  width: 100%;
+}
+.footer ul {
+  padding: 1.2rem;
 }
 
 /* List of Symptoms: accordion */
@@ -133,6 +134,10 @@ body h3 {
 /* --- Content --- */
 .txt-center {
   text-align: center;
+}
+
+.txt-small {
+  font-size: 0.9rem;
 }
 
 .heading {
