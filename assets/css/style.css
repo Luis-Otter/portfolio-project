@@ -105,10 +105,6 @@ body h3 {
   overflow: hidden;
 }
 
-.image-container {
-  height: 80vh;
-}
-
 /* --- Containers --- */
 .grid {
   display: grid;
@@ -128,6 +124,10 @@ body h3 {
 
 .flex {
   display: flex;
+}
+
+.image-container {
+  height: 80vh;
 }
 
 /* --- Content --- */
