@@ -165,7 +165,7 @@ section > p {
 /* Styles / skins */
 .hero {
   background-image: url(../../assets/images/mobile-hero-image.webp);
-  background-position: top;
+  background-position: center;
   background-size: cover;
 }
 
