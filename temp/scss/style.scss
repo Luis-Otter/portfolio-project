@@ -34,6 +34,7 @@ body{
     }
 }
 
+/* List of Symptoms: accordion */
 .accordion {
     cursor: pointer;
     padding: 18px;
@@ -44,6 +45,11 @@ body{
     transition: 0.4s;
 }
 
+.panel {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+}
 
 
 .footer {
