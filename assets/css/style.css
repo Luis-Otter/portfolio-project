@@ -100,6 +100,13 @@ body h3 {
   padding: 10px;
 }
 
+.card {
+  height: 200px;
+  min-width: 200px;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
 /* --- Content --- */
 .txt-center {
   text-align: center;
@@ -143,10 +150,10 @@ body h3 {
   .grid-odds {
     grid-template-columns: repeat(4, minmax(80px, 1fr));
   }
-  .grid-odds .card {
+  .grid-odds li {
     grid-column: span 2;
   }
-  .grid-odds .card:last-child {
+  .grid-odds li:last-child {
     grid-column: 2/4;
   }
 }
@@ -154,10 +161,10 @@ body h3 {
   .grid-odds {
     grid-template-columns: repeat(6, minmax(80px, 1fr));
   }
-  .grid-odds .card:nth-child(4n) {
+  .grid-odds li:nth-child(4n) {
     grid-column: 2/4;
   }
-  .grid-odds .card:last-child {
+  .grid-odds li:last-child {
     grid-column: 4/6;
   }
 }/*# sourceMappingURL=style.css.map */

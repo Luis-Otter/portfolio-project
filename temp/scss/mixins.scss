@@ -18,10 +18,10 @@
 @mixin grid-md{
     .grid-odds {
         grid-template-columns: repeat(4, minmax(80px, 1fr));
-        .card {
+        li {
             grid-column: span 2;
         }
-        .card:last-child {
+        li:last-child {
             grid-column: 2/4;
         }
     }
@@ -30,10 +30,10 @@
 @mixin grid-lg {
     .grid-odds {
         grid-template-columns: repeat(6, minmax(80px, 1fr));
-        .card:nth-child(4n) {
+        li:nth-child(4n) {
             grid-column: 2/4;
         }
-        .card:last-child {
+        li:last-child {
             grid-column: 4/6;
         }
     }
