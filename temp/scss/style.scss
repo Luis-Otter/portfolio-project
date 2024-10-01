@@ -11,9 +11,9 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
-.heading {
-    font-weight: bold;
-}
+// .heading {
+//     font-weight: bold;
+// }
 
 
 
@@ -86,6 +86,11 @@ body{
 /* Pseudo styles/skins */
 .active, .accordion:hover {
     background: yellow;
+}
+.btn:hover {
+    background-color: $secondaryDark;
+    color: $primary;
+    transition: .4s;
 }
 
 /* Media Queries */

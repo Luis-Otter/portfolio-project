@@ -15,6 +15,17 @@
 }
 
 .btn {
+    display: block;
+    width: 20%;
+    height: 1.5rem;
     border-radius: .75rem;
-    padding: .25rem;
+    padding: .175rem;
+    margin: 2rem auto;
+}
+
+.card {
+    height: 200px;
+    min-width: 200px;
+    max-width: 300px;
+    margin: 0 auto;
 }

@@ -1,3 +1,27 @@
 .txt-center {
     text-align: center;
 }
+
+.heading {
+    padding: 0 .675rem 0 .675rem;
+}
+
+section>p {
+    padding: 0 1.35rem 0 1.35rem;
+}
+
+.cols-2 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.col-span-2 {
+    grid-column: span 2;
+}
+
+.col-span-3 {
+    grid-column: span 3;
+}
+
+.col-span-4 {
+    grid-column: span 4;
+}
