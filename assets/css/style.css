@@ -81,6 +81,11 @@ body h3 {
   position: relative;
   bottom: 0;
   width: 100%;
+  justify-content: space-evenly;
+}
+.footer div {
+  width: 50%;
+  padding: 0.5rem;
 }
 
 /* List of Symptoms: accordion */
@@ -160,6 +165,14 @@ section > p {
 
 .center {
   margin: auto;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.p-lr {
+  padding: 0 2.175rem;
 }
 
 /* Styles / skins */
