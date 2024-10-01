@@ -113,6 +113,14 @@ body h3 {
   padding: 10px;
 }
 
+.sub-grid-row {
+  grid-template-rows: subgrid;
+}
+
+.sub-grid-col {
+  grid-template-columns: subgrid;
+}
+
 /* --- Content --- */
 .txt-center {
   text-align: center;
@@ -140,6 +148,10 @@ section > p {
 
 .col-span-4 {
   grid-column: span 4;
+}
+
+.center {
+  margin: auto;
 }
 
 /* Styles / skins */
