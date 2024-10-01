@@ -208,6 +208,14 @@ The current colour pallete for the website was created with [Color Mind](http://
 
 ## References for Resources
 
+### Josh Comeau's updated CSS Reset
+This is a standard template that can be used at the beginning of any project. Its purpose is to override some of the standard styling applied to elements that usually are overriden in the course of a project anyway.
+
+You can find a link to this and its explanations here: [Josh Comeau's CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+
+Perhaps the most important part is the box sizing part near the begining.
+
+
 ### CSS Pre-Compiler
 SCSS (or SASS) was used to precompile the CSS. The pre-compiler allows CSS code to function more like a normal language; one can make use of variables, mathmatical functions, if statements, etc.
 
