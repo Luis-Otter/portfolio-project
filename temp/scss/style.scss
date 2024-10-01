@@ -20,28 +20,6 @@ body{
 /* Structures */
 @import 'structure';
 
-/* List of Symptoms: accordion */
-.accordion {
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-}
-
-.panel {
-    padding: 0 18px;
-    display: none;
-    overflow: hidden;
-}
-
-.image-container {
-    height: 80vh;
-}
-
-
 /* --- Containers --- */
 @import 'containers';
 
@@ -86,6 +64,7 @@ body{
     color: $primary;
     transition: .4s;
 }
+
 
 /* Media Queries */
 // ------- Medium devices ------- //
