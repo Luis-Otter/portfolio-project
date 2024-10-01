@@ -19,6 +19,7 @@ img, picture, video, canvas, svg {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 a {
@@ -48,7 +49,7 @@ body h3 {
 }
 
 /* Structures */
-/* nav bar */
+/* --- Nav-bar --- */
 .nav {
   position: sticky;
   top: 0;

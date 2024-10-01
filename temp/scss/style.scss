@@ -18,21 +18,7 @@ body{
 
 
 /* Structures */
-/* nav bar */
-.nav {
-    position: sticky;
-    top: 0;
-    width: 100%;
-    ul{
-        display: flex;
-        justify-content: space-around;
-        height: 3rem;
-        align-items: center;
-        width: 70%;
-        margin-right: 0;
-        margin-left: auto;
-    }
-}
+@import 'structure';
 
 /* List of Symptoms: accordion */
 .accordion {
