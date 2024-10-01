@@ -51,9 +51,6 @@ body{
     overflow: hidden;
 }
 
-
-
-
 .footer {
     position: relative;
     bottom: 0;
@@ -62,6 +59,19 @@ body{
 
 .image-container {
     height: 375px;
+}
+
+
+/* --- Containers --- */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: minmax(200px, auto);
+    gap: 20px;
+}
+
+.card {
+    text-align: center;
 }
 
 
