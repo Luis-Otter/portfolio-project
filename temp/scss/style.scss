@@ -56,7 +56,6 @@ body{
 
 .bg-lighten {
     background-color: rgba($color: white, $alpha: .2);
-
 }
 
 
@@ -67,8 +66,10 @@ body{
 .btn:hover {
     background-color: $secondaryDark;
     color: $primary;
-    transition: .4s;
-}
+    box-shadow: 5px 5px rgba($color: white, $alpha: .6);
+    transition: .4s ease-in;
+} 
+
 
 
 /* Media Queries */
