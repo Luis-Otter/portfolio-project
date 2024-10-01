@@ -77,6 +77,12 @@ body h3 {
   margin: 0 auto;
 }
 
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
 /* List of Symptoms: accordion */
 .accordion {
   cursor: pointer;
@@ -92,12 +98,6 @@ body h3 {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-}
-
-.footer {
-  position: relative;
-  bottom: 0;
-  width: 100%;
 }
 
 .image-container {
@@ -119,6 +119,10 @@ body h3 {
 
 .sub-grid-col {
   grid-template-columns: subgrid;
+}
+
+.flex {
+  display: flex;
 }
 
 /* --- Content --- */
