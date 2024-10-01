@@ -6,6 +6,26 @@
     padding: 10px;
 }
 
+.cols-2 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.col-span-2 {
+    grid-column: span 2;
+}
+
+.col-span-3 {
+    grid-column: span 3;
+}
+
+.col-span-4 {
+    grid-column: span 4;
+}
+
+// .flex {
+//     display: flex;
+// }
+
 .card {
     height: 200px;
     min-width: 200px;
