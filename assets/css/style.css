@@ -140,6 +140,10 @@ body h3 {
   font-size: 0.9rem;
 }
 
+.txt-icon {
+  font-size: 1.75rem;
+}
+
 .heading {
   padding: 0 0.675rem 0 0.675rem;
   font-weight: bold;
