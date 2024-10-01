@@ -97,6 +97,7 @@ body{
 // ------- Medium devices ------- //
 @media screen and (min-width: 500px) {
     @include grid-md;
+    @include online-sub-grid-md;
 }
 
 

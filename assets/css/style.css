@@ -138,6 +138,10 @@ section > p {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.rows-2 {
+  grid-template-rows: repeat(4, 1fr);
+}
+
 .col-span-2 {
   grid-column: span 2;
 }
@@ -203,6 +207,10 @@ section > p {
   }
   .grid-odds li:last-child {
     grid-column: 2/4;
+  }
+  #online-resources .grid {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: subgrid;
   }
 }
 @media screen and (min-width: 769px) {
