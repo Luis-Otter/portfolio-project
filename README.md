@@ -206,6 +206,9 @@ The current colour pallete for the website was created with [Color Mind](http://
 
 ## Code Attribution
 
+### Accordion and Panels
+The code for the accordion, including the JavaScript at the end of the body in index.html was found on the W3Schools site at this link: [Collapsibles/Accordion](https://www.w3schools.com/howto/howto_js_accordion.asp)
+
 ## Future Improvements
 
 ## References for Resources
