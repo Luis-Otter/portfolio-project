@@ -100,10 +100,6 @@ body h3 {
   padding: 10px;
 }
 
-.card {
-  text-align: center;
-}
-
 /* --- Content --- */
 .txt-center {
   text-align: center;
@@ -144,24 +140,24 @@ body h3 {
 
 /* Media Queries */
 @media screen and (min-width: 500px) {
-  .grid {
+  .grid-odds {
     grid-template-columns: repeat(4, minmax(80px, 1fr));
   }
-  .card {
+  .grid-odds .card {
     grid-column: span 2;
   }
-  .card:last-child {
+  .grid-odds .card:last-child {
     grid-column: 2/4;
   }
 }
 @media screen and (min-width: 769px) {
-  .grid {
+  .grid-odds {
     grid-template-columns: repeat(6, minmax(80px, 1fr));
   }
-  .card:nth-child(4n) {
+  .grid-odds .card:nth-child(4n) {
     grid-column: 2/4;
   }
-  .card:last-child {
+  .grid-odds .card:last-child {
     grid-column: 4/6;
   }
 }/*# sourceMappingURL=style.css.map */
