@@ -33,7 +33,7 @@ body{
 }
 
 
-/* Styles */
+/* Styles / skins */
 .structural {
     background-color: $primary;
     a {
@@ -41,3 +41,12 @@ body{
     }
 }
 
+.light-dark {
+    background-color: $secondaryLight;
+    color: $secondaryDark;
+}
+
+.dark-light {
+    background-color: $secondaryDark;
+    color: $secondaryLight;
+}
