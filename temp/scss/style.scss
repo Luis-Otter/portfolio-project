@@ -84,4 +84,5 @@ body{
 @media screen and (min-width: 769px) {
     @include grid-lg;
     @include resources-grid-lg;
+    @include nav-lg;
 }
