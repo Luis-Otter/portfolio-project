@@ -168,8 +168,6 @@ The current colour pallete for the website was created with [Color Mind](http://
 
 ## AI Tools Usage
 
-### DALL-E
-
 ### ChatGPT
 ChatGPT will be used to generate all text content for the site. This will speed up the overall design process and allow me to focus more on the structure, wireframing, and building of the site.
 

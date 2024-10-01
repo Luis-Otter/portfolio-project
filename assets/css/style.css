@@ -97,6 +97,7 @@ body h3 {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-auto-rows: minmax(200px, auto);
   gap: 20px;
+  padding: 20px;
 }
 
 .card {
