@@ -54,6 +54,11 @@ body{
     color: $secondaryLight;
 }
 
+.bg-lighten {
+    background-color: rgba($color: white, $alpha: .2);
+
+}
+
 
 /* Pseudo styles/skins */
 .active, .accordion:hover {
