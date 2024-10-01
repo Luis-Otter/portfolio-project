@@ -28,6 +28,9 @@ body{
         justify-content: space-around;
         height: 3rem;
         align-items: center;
+        width: 70%;
+        margin-right: 0;
+        margin-left: auto;
     }
 }
 
@@ -38,14 +41,14 @@ body{
 }
 
 .image-container {
-    height: 250px;
+    height: 375px;
 }
 
 
 /* Styles / skins */
 .hero {
     background-image: url(../../assets/images/mobile-hero-image.webp);
-    background-position: center;
+    background-position: top;
     background-size: cover;
 }
 
@@ -69,3 +72,6 @@ body{
     background-color: $accentDark;
     color: $secondaryLight;
 }
+
+
+/* Media Queries */
