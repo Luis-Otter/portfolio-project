@@ -123,7 +123,9 @@ Left side is initial plan, right is alternative:
 <img src="README+/images/list-of-symptoms-1.png" width=350><img src="README+/images/list-of-symptoms-2.png" width=350>
 
 
+Moving up in terms of the device size, the wireframe for the full page, on a tablet, is below on the left, and the full wireframe for a large device is on the right:
 
+<img src="README+/images/Tablet Wireframe.png" width=300> <img src="README+/images/Large device wireframe.png" width=450>
 
 ### Accessibility Considerations
 There are a fair few considerations that have been made in terms of the accessibilty of the site. All images/icons will be given alt text so that screen readers can describe them. Additionaly, the contrast of the colours used will ensure that text can always be read easily and the font will also be selected based on its legibility.
