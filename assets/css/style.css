@@ -65,6 +65,11 @@ body h3 {
   margin-left: auto;
 }
 
+.btn {
+  border-radius: 0.75rem;
+  padding: 0.25rem;
+}
+
 /* List of Symptoms: accordion */
 .accordion {
   cursor: pointer;
