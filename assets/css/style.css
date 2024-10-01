@@ -61,6 +61,12 @@ body h3 {
   align-items: center;
 }
 
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 /* Styles / skins */
 .structural {
   background-color: #6ec6e7;
