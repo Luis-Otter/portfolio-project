@@ -62,11 +62,11 @@ body h3 {
 }
 
 .btn {
-  display: block;
+  display: inline;
   width: 20%;
   height: 1.5rem;
   border-radius: 0.75rem;
-  padding: 0.175rem;
+  padding: 0 2rem;
   margin: 2rem auto;
 }
 
@@ -208,9 +208,12 @@ section > p {
   .grid-odds li:last-child {
     grid-column: 2/4;
   }
-  #online-resources .grid {
+  #help > .grid {
+    grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: subgrid;
+  }
+  #help li {
+    grid-column: span 2;
   }
 }
 @media screen and (min-width: 769px) {
@@ -222,5 +225,11 @@ section > p {
   }
   .grid-odds li:last-child {
     grid-column: 4/6;
+  }
+  #help > .grid {
+    grid-template-rows: repeat(1, 1fr);
+  }
+  #help li {
+    grid-column: span 1;
   }
 }/*# sourceMappingURL=style.css.map */
