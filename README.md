@@ -336,15 +336,13 @@ This is essentially the sequence of steps I took to deploy my site.
 
 The only other actions I took were to update the settings.json of the .vscode folder to make use of the scss pre-compiler. However, it would not be necessary to do that to deploy the site again.
 
-## AI Tools Usage
-
-### Reflection
-
 ## Reflection on Development Process
+
+The development process went well, but was slow at the beginning.
 
 ### Successes
 
-### Challenges
+I managed to teach myself enough systems like scss and css grid to make use of them within the project and and happy with the adaptability/responsiveness I have gain in the layout through doing so.
 
 ### Final Thoughts
 
