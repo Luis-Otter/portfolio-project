@@ -352,6 +352,9 @@ I managed to teach myself enough systems like scss and css grid to make use of t
 The code for the accordion, including the JavaScript at the end of the body in index.html was found on the W3Schools site at this link: [Collapsibles/Accordion](https://www.w3schools.com/howto/howto_js_accordion.asp)
 
 ## Future Improvements
+In the future I would get the MVP out of the way quicker and try to avoid taking too much time on specific aesthetics.
+
+I would add some spacing above each of the headers to separate them a little more, and make the division of each section a little more obvious. 
 
 ## References for Resources
 
