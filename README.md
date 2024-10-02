@@ -19,10 +19,9 @@ These users will gain the most value as they will be able to access the most rel
 **Member of General Public**:
 
 - *Background:* A 30-year old individual seeking basic mental health information for personal understanding.
-- *Feature Needed:* Easy-to-navigate sections with clear definitions of mental health terms.
+- *Feature Needed:* Easy-to-navigate sections, specifically wants to get around the site fast.
 - *Success Criteria:*
-  - Clear headings and subheadings.
-  - Navigation menu with Sections.
+  - Navigation menu linked to sections
 
 **Young Adult**:
 
@@ -31,15 +30,13 @@ These users will gain the most value as they will be able to access the most rel
 - *Success Criteria:*
   - At least five visually appealing coping strategies with concise descriptions.
   - Visual aids (icons/images) complement the text.
-  - tips could include links to resources for deeper understanding.
 
 **Parent**:
 
 - *Background:* A parent is looking to understand mental health to support their children (teenagers).
 - *Feature Needed:* Signs and symptoms section focused on youth mental health issues.
 - *Success Criteria:*
-  - Section includes a clear list of signs specific to teenagers.
-  - Visual aids (icons/images) accompany each symptom for clarity.
+  - Section includes a clear list of symptoms/signs to look out for.
 
 ### Should-Have User Stories
 
@@ -180,6 +177,7 @@ The colour palette for the website was also revised after chatGPT created the he
 
 ### Core Features (Must-Haves)
 
+Feature 1: Clear headings and subheadings
 
 ### Advanced Features (Should-Haves)
 
