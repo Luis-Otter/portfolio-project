@@ -225,6 +225,19 @@ The success criteria of this user was to have a clear list of symptoms to look o
 
 ### Advanced Features (Should-Haves)
 
+Feature 1: A section on where to get help, with links and phone numbers
+
+The image below is a screenshot of the getting help section. It contains all of the necessary information needed to meet the success criteria of this user. As stated above, the buttons also utilise the same transitions as the rest of the links on the page.
+
+<img src="README+/images/getting-help.png">
+
+Feature 2: A section for FAQs
+
+This user needed faqs and links to other mental health sites; the links to mental health sites are provided in the help section described above. <br>
+To create a FAQs section I placed some FAQs into the footer of the web page. As the number of FAQs given is small, I decided that this would be acceptable but do acknowledge the fact that this would likely, one day, need its own page.
+
+<img src="README+/images/footer-faqs.png">
+
 
 ### Optional Features (Could-Haves)
 
