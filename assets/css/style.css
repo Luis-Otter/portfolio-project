@@ -196,6 +196,11 @@ section > p {
   padding: 0 2.175rem;
 }
 
+.bullet {
+  list-style: circle;
+  padding: 0 1rem;
+}
+
 /* Styles / skins */
 .hero {
   background-image: url(../../assets/images/mobile-hero-image.webp);
