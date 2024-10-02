@@ -52,6 +52,9 @@ body{
     background-color: rgba($color: white, $alpha: .2);
 }
 
+.hidden {
+    display: none;
+}
 
 /* Pseudo styles/skins */
 .active, .accordion:hover {
@@ -71,6 +74,9 @@ body{
 @media screen and (min-width: 500px) {
     @include grid-md;
     @include resources-grid-md;
+    .hidden {
+        display: unset
+    }
 }
 
 

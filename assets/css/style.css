@@ -144,6 +144,12 @@ body h3 {
   font-size: 1.75rem;
 }
 
+.soft-title {
+  font-family: "Nunito";
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
 .heading {
   padding: 0 0.675rem 0 0.675rem;
   font-weight: bold;
@@ -222,6 +228,10 @@ section > p {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
+.hidden {
+  display: none;
+}
+
 /* Pseudo styles/skins */
 .active, .accordion:hover {
   background: yellow;
@@ -251,6 +261,9 @@ section > p {
   }
   #help li {
     grid-column: span 2;
+  }
+  .hidden {
+    display: unset;
   }
 }
 @media screen and (min-width: 769px) {
