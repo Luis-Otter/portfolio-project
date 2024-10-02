@@ -313,9 +313,9 @@ Upon validating the html a handful of errors were found:
 
 2. An issue with the href on the teenshealth link, I fixed by removing the space.
 
-3. removed <br> in the <ul>.
+3. removed br in the ul.
 
-4. removed <br> in <ul>.
+4. removed br in ul.
 
 <img src="README+/images/html-validator-no-errors.png">
 
