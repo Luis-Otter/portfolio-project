@@ -327,6 +327,12 @@ The code for the accordion, including the JavaScript at the end of the body in i
 
 ## References for Resources
 
+### HTML Validation
+In order to validate/test the html code in the above section the following html validator was used: [Markup Validation Service](https://validator.w3.org/)
+
+### CSS Validation
+To validate the css of the site, the following validator was used: [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
 ### Josh Comeau's updated CSS Reset
 This is a standard template that can be used at the beginning of any project. Its purpose is to override some of the standard styling applied to elements that usually are overriden in the course of a project anyway.
 
