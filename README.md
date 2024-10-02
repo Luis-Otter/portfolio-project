@@ -43,26 +43,25 @@ These users will gain the most value as they will be able to access the most rel
 
 **Support Seeker**:
 
-- *Background:* An individual who suspects they may have anxiety and wants to know when to seek help.
-- *Feature Needed:* A simple guide on when to seek profesional help.
+- *Background:* An individual who suspects they may have anxiety and wants to know where to get help.
+- *Feature Needed:* Some simple pointers to sources of profesional help.
 - *Acceptance Criteria:*
-  - Checklist or flowchart is prominently displayed for easy reference.
-  - Contact information for mental health services is easily accessible.
+  - phone numbers for support lines, links to mental health groups, etc.
 
-**Educator**:
+**Student**:
 
-- *Background:* A teacher interested in promoting mental health awareness in the classroom.
-- *Feature Needed:* Resources section with links to educational materials and workshops.
+- *Background:* A student with more questions.
+- *Feature Needed:* Links to mental health groups and an FAQ.
 - *Acceptance Criteria:*
-  - Curated list of resources includes downloadable materials.
-  - Links to relevant organisations and upcoming events are updated regularly.
+  - Have FAQs on the page.
+  - links to mental health pages.
 
-**Educational Body**:
+**Distracted Student**:
 
-- *Background:* A school whats to put together workshops to raise awareness for their students.
-- *Feature Needed:* Links to support for individuals.
+- *Background:* A student who is easily distracted unless getting a feedback response.
+- *Feature Needed:* Buttons/links need to react to the user hovering over them, or clicking on them.
 - *Acceptance Criteria:*
-  - Section outlines practical steps for implementing initiatives.
+  - Add transitions to the buttons on the page to make them more stimulating.
 
 ### Could-Have User Stories
 
@@ -225,6 +224,7 @@ The success criteria of this user was to have a clear list of symptoms to look o
 
 
 ### Advanced Features (Should-Haves)
+
 
 ### Optional Features (Could-Haves)
 
