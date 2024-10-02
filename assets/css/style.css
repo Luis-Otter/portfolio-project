@@ -256,6 +256,10 @@ section > p {
   display: unset;
 }
 
+.box-sh-b-in {
+  box-shadow: inset 0 -0.2rem rgba(0, 0, 0, 0.4);
+}
+
 /* Pseudo styles/skins */
 .active, .accordion:hover {
   background: #89aaaf;
