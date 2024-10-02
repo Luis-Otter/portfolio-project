@@ -183,6 +183,16 @@ I implemented the navigation menuat the top of the page. It is sticky, but only 
 
 <img src="README+/images/navigation-items.png">
 
+The acceptance criteria of this feature was that it should be readable, and that each item should be linked to its relevant section. 
+Each of the items possess an href link that targets the id of each relevant section so that the page will jump there when clicked.
+
+<img src="README+/images/nav-items-code.png">
+
+Additionally, the buttons of the navigation bar have a high contrast facilitated by two things: 1. the transparent background that increases the lightness of the colours behind the button; and 2. the utilisation of the darken function applied to the colour variable used on the text.
+
+<img src="README+/images/nav-background-lighten.png">
+<img src="README+/images/txt-colour-darken.png">
+
 
 ### Advanced Features (Should-Haves)
 
