@@ -283,6 +283,9 @@ It was the colour palette of this image that was then used as the inspiration fo
 To meet the success criteria, this image is place as the background cover of a div in the header of the page; meaning it is really the first thing anyone will see.
 
 ## AI Tools Usage
+[ChatGPT](https://chatgpt.com/) was used to create the hero image, and by extension the updated colour scheme was derived from the image using [colour mind](http://colormind.io/bootstrap/).
+
+No AI tools were used for the actual coding of the site. Only for the general content/text.
 
 ## Testing and Validation
 
