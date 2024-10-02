@@ -317,6 +317,7 @@ Upon validating the html a handful of errors were found:
 
 4. removed <br> in <ul>.
 
+<img src="README+/images/html-validator-no-errors.png">
 
 ## Deployment
 
