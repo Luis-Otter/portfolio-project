@@ -210,20 +210,29 @@ section > p {
 }
 
 .structural {
-  background-color: #6ec6e7;
+  background-color: #89aaaf;
 }
 .structural a {
-  color: #2e3b4e;
+  color: #3d587f;
 }
 
 .light-dark {
-  background-color: #f5f5f5;
-  color: #2e3b4e;
+  background-color: #f1dfba;
+  color: #3d587f;
 }
 
 .dark-light {
-  background-color: #4f7373;
+  background-color: #724156;
   color: #f5f5f5;
+}
+
+.l-acc-dark {
+  background-color: #be6353;
+  color: #724156;
+}
+
+.txt-color {
+  color: #653a4c;
 }
 
 .bg-lighten {
@@ -240,12 +249,12 @@ section > p {
 
 /* Pseudo styles/skins */
 .active, .accordion:hover {
-  background: yellow;
+  background: #f1dfba;
 }
 
 .btn:hover {
-  background-color: #2e3b4e;
-  color: #6ec6e7;
+  background-color: #3d587f;
+  color: #89aaaf;
   box-shadow: 5px 5px rgba(255, 255, 255, 0.6);
   transition: 0.4s ease-in;
 }

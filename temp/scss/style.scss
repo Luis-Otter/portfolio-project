@@ -39,13 +39,22 @@ body{
 }
 
 .light-dark {
-    background-color: $secondaryLight;
+    background-color: $thirdLight;
     color: $secondaryDark;
 }
 
 .dark-light {
     background-color: $accentDark;
     color: $secondaryLight;
+}
+
+.l-acc-dark {
+    background-color: $accentLight;
+    color: $accentDark;
+}
+
+.txt-color {
+    color: darken($accentDark, 4);
 }
 
 .bg-lighten {
@@ -62,7 +71,7 @@ body{
 
 /* Pseudo styles/skins */
 .active, .accordion:hover {
-    background: yellow;
+    background: $thirdLight;
 }
 .btn:hover {
     background-color: $secondaryDark;
