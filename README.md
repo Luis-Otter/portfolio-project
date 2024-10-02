@@ -22,6 +22,7 @@ These users will gain the most value as they will be able to access the most rel
 - *Feature Needed:* Easy-to-navigate sections, specifically wants to get around the site fast.
 - *Success Criteria:*
   - Navigation menu linked to sections
+  - Easy to read names
 
 **Young Adult**:
 
@@ -177,7 +178,8 @@ The colour palette for the website was also revised after chatGPT created the he
 
 ### Core Features (Must-Haves)
 
-Feature 1: Clear headings and subheadings
+Feature 1: Navigation menu
+The navigation menu aligns  
 
 ### Advanced Features (Should-Haves)
 
