@@ -232,7 +232,7 @@ section > p {
 }
 
 .txt-color {
-  color: #653a4c;
+  color: #364e71;
 }
 
 .bg-btn {
@@ -242,6 +242,10 @@ section > p {
 
 .bg-lighten {
   background-color: rgba(255, 255, 255, 0.2);
+}
+
+.txt-acc {
+  color: #7c475d;
 }
 
 .hidden {
