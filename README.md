@@ -262,6 +262,16 @@ Upon clicking the accordion button, the colour transition will remain while it i
 
 ### Optional Features (Could-Haves)
 
+**Feature 1:** Links to social media
+
+I added the links to social media at the bottom of the footer. Again, structurally speaking, these are completely redundant in terms of the information the site is meant to provide, but a necessary element for interaction with larger audiences. 
+
+<img src="README+/images/socials.png">
+
+Each icon is being placed with i tags within the text slot of an anchor tag.
+
+<img src="README+/images/icons-in-html.png">
+
 ## AI Tools Usage
 
 ## Testing and Validation
