@@ -197,7 +197,7 @@ Additionally, the buttons of the navigation bar have a high contrast facilitated
 Because of this, the nav items meet the criteria of being easy to read and linked to relevant sections.
 
 
-Feature 2: have five coping strategies, with descriptions, and visual aids (such as icons)
+Feature 2: five coping strategy cards, with descriptions, and visual aids (such as icons)
 
 The coping strategies section was created using the css grid method. This was used as it is a better alternative to boostrap grid: more adaptable, and easier to implement without bloating html code.<br>
 To create the required five items I essentially made five cards. Each one contains an icon, followed by a title, then the concise description.
@@ -207,6 +207,21 @@ To create the required five items I essentially made five cards. Each one contai
 By nature of the size each card was confined to the descriptions had to be concise. Each of the cards here meets the needs of a student looking for coping strategies that might help them to manage the stress. 
 The success criteria were to have at least five items, with concise descriptions, and that each one have a relevant icon.
 
+
+Feature 3: List of symptoms
+
+The list of symptoms was implemented using some code from [W3schools](https://www.w3schools.com/howto/howto_js_accordion.asp), specifically their code for an accordion.<br>
+It is broken down into five sections, each of which focuses on a slightly different mental health issue.
+
+<img src="README+/images/symptoms-accordion.png>
+
+Each of the items, when clicked on, will open up their own drop-down where the information is provided in the following format:
+
+<img src="README+/images/symptoms-info.png">
+
+Every item in the accordion posesses information  describing what the mental health issue can look like, and the signs to watch out for.
+
+The success criteria of this user was to have a clear list of symptoms to look out for. In this case the accordion was made to fit that purpose, but it needed to diverge into multiple possible symptom lists as there can be an array of issues each of which are somewhat unique.
 
 
 ### Advanced Features (Should-Haves)
