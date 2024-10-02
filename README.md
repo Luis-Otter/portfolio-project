@@ -289,6 +289,15 @@ No AI tools were used for the actual coding of the site. Only for the general co
 
 ## Testing and Validation
 
+**Issue 1:** The first issue found, was pointed out to me by a member of my family. The background colour of the getting help section is different from the others. And, they were right.<br>
+it was: <img src="README+/images/getting-help.png">
+The white is too white, and the text is not meant to be black.
+
+However, making the background the same as the coping strategies would fail to create enough of a visual separation between the two sections. So, I have inverted the where to find help section to the light on dark skin.
+
+The background class was applied to the html section and it rectified the issue as can be seen below:
+<img src="README+/images/revised-getting-help.png">
+
 ### Testing Results
 
 ### Validation
