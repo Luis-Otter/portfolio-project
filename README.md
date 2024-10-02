@@ -289,6 +289,7 @@ No AI tools were used for the actual coding of the site. Only for the general co
 
 ## Testing and Validation
 
+### Testing Results
 **Issue 1:** The first issue found, was pointed out to me by a member of my family. The background colour of the getting help section is different from the others. And, they were right.<br>
 it was: <img src="README+/images/getting-help.png">
 The white is too white, and the text is not meant to be black.
@@ -298,7 +299,10 @@ However, making the background the same as the coping strategies would fail to c
 The background class was applied to the html section and it rectified the issue as can be seen below:
 <img src="README+/images/revised-getting-help.png">
 
-### Testing Results
+The site was tested on multiple screen sizes and no issues were spotted. This is likely, in part, due to the use of css grid. 
+The following media queries were used to ensure the site would adapt to various screen sizes:
+<img src="README+/images/media-query-mixins.png">
+<img src="README+/images/media-queries-css.png">
 
 ### Validation
 
