@@ -68,10 +68,9 @@ These users will gain the most value as they will be able to access the most rel
 **Advocate**:
 
 - *Background:* An advocate looking to raise awareness and reduce stigma.
-- *Feature Needed:* Call-to-action section for community involvement.
+- *Feature Needed:* Links for social media.
 - *Acceptance Criteria:*
-  - Clear steps for community involvement are present.
-  - Social media sharing options are integrated for campaigns.
+  - Links to social media.
 
 **The Easily Distracted User**:
 
@@ -82,10 +81,10 @@ These users will gain the most value as they will be able to access the most rel
 
 **The Visual Learner**:
 
-- *Background:* A visual learner who prefers graphic content.
-- *Feature Needed:* Infographics summarizing key mental health concepts.
+- *Background:* A visual individual who wants a calming image or message.
+- *Feature Needed:* ICalming hero image.
 - *Acceptance Criteria:*
-  - Infographics are visually appealing and easy to understand.
+  - Hero image that conveys a sense of calmness through its colour and content.
 
 ## Design Decisions
 
@@ -177,7 +176,7 @@ The colour palette for the website was also revised after chatGPT created the he
 
 ### Core Features (Must-Haves)
 
-Feature 1: Navigation menu
+**Feature 1:** Navigation menu
 
 I implemented the navigation menu at the top of the page. It is sticky, but only relevant to the header; it does not follow all the way down the page (which felt short enough to justify). I made the navigation bar float over the top of a background image, and to ensure a good contrast ratio I applied a background to each item that just lightend the colours behind the text.
 
@@ -196,7 +195,7 @@ Additionally, the buttons of the navigation bar have a high contrast facilitated
 Because of this, the nav items meet the criteria of being easy to read and linked to relevant sections.
 
 
-Feature 2: five coping strategy cards, with descriptions, and visual aids (such as icons)
+**Feature 2:** five coping strategy cards, with descriptions, and visual aids (such as icons)
 
 The coping strategies section was created using the css grid method. This was used as it is a better alternative to boostrap grid: more adaptable, and easier to implement without bloating html code.<br>
 To create the required five items I essentially made five cards. Each one contains an icon, followed by a title, then the concise description.
@@ -207,12 +206,12 @@ By nature of the size each card was confined to the descriptions had to be conci
 The success criteria were to have at least five items, with concise descriptions, and that each one have a relevant icon.
 
 
-Feature 3: List of symptoms
+**Feature 3:** List of symptoms
 
 The list of symptoms was implemented using some code from [W3schools](https://www.w3schools.com/howto/howto_js_accordion.asp), specifically their code for an accordion.<br>
 It is broken down into five sections, each of which focuses on a slightly different mental health issue.
 
-<img src="README+/images/symptoms-accordion.png>
+<img src="README+/images/symptoms-accordion.png">
 
 Each of the items, when clicked on, will open up their own drop-down where the information is provided in the following format:
 
