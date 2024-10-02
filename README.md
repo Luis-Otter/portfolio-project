@@ -225,18 +225,39 @@ The success criteria of this user was to have a clear list of symptoms to look o
 
 ### Advanced Features (Should-Haves)
 
-Feature 1: A section on where to get help, with links and phone numbers
+**Feature 1:** A section on where to get help, with links and phone numbers
 
 The image below is a screenshot of the getting help section. It contains all of the necessary information needed to meet the success criteria of this user. As stated above, the buttons also utilise the same transitions as the rest of the links on the page.
 
 <img src="README+/images/getting-help.png">
 
-Feature 2: A section for FAQs
+**Feature 2:** A section for FAQs
 
 This user needed faqs and links to other mental health sites; the links to mental health sites are provided in the help section described above. <br>
 To create a FAQs section I placed some FAQs into the footer of the web page. As the number of FAQs given is small, I decided that this would be acceptable but do acknowledge the fact that this would likely, one day, need its own page.
 
 <img src="README+/images/footer-faqs.png">
+
+The cards were created on a grid again, but this time there is also a subgrid within the "Online Resources".
+
+
+**Feature 3:** button transitions
+
+Each of the buttons on the site now has the implemented styling to transition its colour upon click or hover. There are currently two different types of styling for this as the accordion buttons are given slightly different transitions to the link buttons.
+
+Each button that directs the user to another page, or the nav items as well, will have the background of the button turn dark blue, the text a light blue, and a white shadow that pushes out behind it.
+
+<img src="README+/images/link-button-example-1.png">
+<img src="README+/images/link-button-example-2.png">
+<img src="README+/images/link-button-example-3.png">
+
+This is facilitated by the following code:
+<img src="README+/images/btn-hover-code.png">
+
+As for the accordion buttons, more formatting was applied overall. For the accordion I have the button on hover transition the colour of its text and background.
+<img src="README+/images/accordion-button-hover-transition.png">
+
+Upon clicking the accordion button, the colour transition will remain while it is active, but it will also gain a box shadow on its bottom edge to help with the visual aesthetic. Doing this makes it look as though the panes it underneath the button which is less visually jarring.
 
 
 ### Optional Features (Could-Haves)
