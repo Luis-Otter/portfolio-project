@@ -39,7 +39,7 @@ body{
 }
 
 .light-dark {
-    background-color: $thirdLight;
+    background-color: $secondaryLight;
     color: $secondaryDark;
 }
 
@@ -57,6 +57,11 @@ body{
     color: darken($accentDark, 4);
 }
 
+.bg-btn {
+    background-color: $accentLight;
+    color: $secondaryLight;
+}
+
 .bg-lighten {
     background-color: rgba($color: white, $alpha: .2);
 }
@@ -71,7 +76,9 @@ body{
 
 /* Pseudo styles/skins */
 .active, .accordion:hover {
-    background: $thirdLight;
+    background: $primary;
+    color: $thirdLight;
+    box-shadow: 0rem .2rem rgba($color: black, $alpha: .3);
 }
 .btn:hover {
     background-color: $secondaryDark;

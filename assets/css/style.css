@@ -217,7 +217,7 @@ section > p {
 }
 
 .light-dark {
-  background-color: #f1dfba;
+  background-color: #f5f5f5;
   color: #3d587f;
 }
 
@@ -235,6 +235,11 @@ section > p {
   color: #653a4c;
 }
 
+.bg-btn {
+  background-color: #be6353;
+  color: #f5f5f5;
+}
+
 .bg-lighten {
   background-color: rgba(255, 255, 255, 0.2);
 }
@@ -249,7 +254,9 @@ section > p {
 
 /* Pseudo styles/skins */
 .active, .accordion:hover {
-  background: #f1dfba;
+  background: #89aaaf;
+  color: #f1dfba;
+  box-shadow: 0rem 0.2rem rgba(0, 0, 0, 0.3);
 }
 
 .btn:hover {
