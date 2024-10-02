@@ -56,6 +56,10 @@ body{
     display: none;
 }
 
+.to-hide {
+    display: unset;
+}
+
 /* Pseudo styles/skins */
 .active, .accordion:hover {
     background: yellow;
@@ -75,7 +79,10 @@ body{
     @include grid-md;
     @include resources-grid-md;
     .hidden {
-        display: unset
+        display: unset;
+    }
+    .to-hide {
+        display: none;
     }
 }
 
