@@ -71,10 +71,7 @@ body h3 {
 }
 
 .card {
-  height: 200px;
-  min-width: 200px;
-  max-width: 300px;
-  margin: 0 auto;
+  padding: 0 1.2rem;
 }
 
 .footer {
