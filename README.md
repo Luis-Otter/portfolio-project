@@ -306,6 +306,18 @@ The following media queries were used to ensure the site would adapt to various 
 
 ### Validation
 
+Upon validating the html a handful of errors were found:
+<img src="README+/images/html-validation-errors.png">
+
+1. There is no heading in the hero section (technically). This was fixed by adding a hidden header using the html and css.
+
+2. An issue with the href on the teenshealth link, I fixed by removing the space.
+
+3. removed <br> in the <ul>.
+
+4. removed <br> in <ul>.
+
+
 ## Deployment
 
 ### Deployment Process
