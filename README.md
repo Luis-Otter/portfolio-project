@@ -179,7 +179,10 @@ The colour palette for the website was also revised after chatGPT created the he
 ### Core Features (Must-Haves)
 
 Feature 1: Navigation menu
-The navigation menu aligns  
+I implemented the navigation menuat the top of the page. It is sticky, but only relevant to the header; it does not follow all the way down the page (which felt short enough to justify). I made the navigation bar float over the top of a background image, and to ensure a good contrast ratio I applied a background to each item that just lightend the colours behind the text.
+
+<img src="README+/images/navigation-items.png">
+
 
 ### Advanced Features (Should-Haves)
 
