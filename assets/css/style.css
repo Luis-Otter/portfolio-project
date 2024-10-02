@@ -257,7 +257,7 @@ section > p {
 }
 
 .box-sh-b-in {
-  box-shadow: inset 0 -0.2rem rgba(0, 0, 0, 0.4);
+  box-shadow: inset 0 -0.2rem rgba(0, 0, 0, 0.3);
 }
 
 /* Pseudo styles/skins */

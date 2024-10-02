@@ -259,6 +259,7 @@ As for the accordion buttons, more formatting was applied overall. For the accor
 
 Upon clicking the accordion button, the colour transition will remain while it is active, but it will also gain a box shadow on its bottom edge to help with the visual aesthetic. Doing this makes it look as though the panes it underneath the button which is less visually jarring.
 
+<img src="README+/images/accordion-button-bx-shadow.png">
 
 ### Optional Features (Could-Haves)
 
