@@ -272,6 +272,16 @@ Each icon is being placed with i tags within the text slot of an anchor tag.
 
 <img src="README+/images/icons-in-html.png">
 
+**Feature 2:** calming hero image or greeting
+
+I used chatGPT to create a calming hero image for the site, it was to meet specific criteria (which it summarised as) "It features a calm, serene setting with a diverse group of teenagers engaging in positive, supportive activities to promote mental well-being."
+
+<img src="assets/images/mobile-hero-image.webp">
+
+It was the colour palette of this image that was then used as the inspiration for a revised colour scheme.
+
+To meet the success criteria, this image is place as the background cover of a div in the header of the page; meaning it is really the first thing anyone will see.
+
 ## AI Tools Usage
 
 ## Testing and Validation
