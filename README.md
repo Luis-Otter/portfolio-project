@@ -322,6 +322,19 @@ Upon validating the html a handful of errors were found:
 ## Deployment
 
 ### Deployment Process
+To deploy the site, I used GitHub pages. To do so follow the steps below.
+
+If you were to redeploy this repository you would:
+1. make a copy of the repository
+2. go to the new repository and click on the settings tab
+3. on the left hand side of the setting page, there should be an option that says "pages"
+4. click on the "pages" option
+5. Once on the pages area, under the build and deployment header, make sure your setting look like the image below...
+<img src="README+/images/git-hub-pages-deploy-settings.png">
+
+This is essentially the sequence of steps I took to deploy my site. 
+
+The only other actions I took were to update the settings.json of the .vscode folder to make use of the scss pre-compiler. However, it would not be necessary to do that to deploy the site again.
 
 ## AI Tools Usage
 
