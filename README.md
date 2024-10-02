@@ -179,7 +179,8 @@ The colour palette for the website was also revised after chatGPT created the he
 ### Core Features (Must-Haves)
 
 Feature 1: Navigation menu
-I implemented the navigation menuat the top of the page. It is sticky, but only relevant to the header; it does not follow all the way down the page (which felt short enough to justify). I made the navigation bar float over the top of a background image, and to ensure a good contrast ratio I applied a background to each item that just lightend the colours behind the text.
+
+I implemented the navigation menu at the top of the page. It is sticky, but only relevant to the header; it does not follow all the way down the page (which felt short enough to justify). I made the navigation bar float over the top of a background image, and to ensure a good contrast ratio I applied a background to each item that just lightend the colours behind the text.
 
 <img src="README+/images/navigation-items.png">
 
@@ -192,6 +193,20 @@ Additionally, the buttons of the navigation bar have a high contrast facilitated
 
 <img src="README+/images/nav-background-lighten.png">
 <img src="README+/images/txt-colour-darken.png">
+
+Because of this, the nav items meet the criteria of being easy to read and linked to relevant sections.
+
+
+Feature 2: have five coping strategies, with descriptions, and visual aids (such as icons)
+
+The coping strategies section was created using the css grid method. This was used as it is a better alternative to boostrap grid: more adaptable, and easier to implement without bloating html code.<br>
+To create the required five items I essentially made five cards. Each one contains an icon, followed by a title, then the concise description.
+
+<img src="README+/images/coping-section.png">
+
+By nature of the size each card was confined to the descriptions had to be concise. Each of the cards here meets the needs of a student looking for coping strategies that might help them to manage the stress. 
+The success criteria were to have at least five items, with concise descriptions, and that each one have a relevant icon.
+
 
 
 ### Advanced Features (Should-Haves)
